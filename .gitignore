@@ -1,0 +1,39 @@
+# *.iml
+# .gradle
+# /local.properties
+# /.idea/caches
+# /.idea/libraries
+# /.idea/modules.xml
+# /.idea/workspace.xml
+# /.idea/navEditor.xml
+# /.idea/assetWizardSettings.xml
+# .DS_Store
+# /build
+# /captures
+# .externalNativeBuild
+# .cxx
+# local.properties
+
+
+.gradle/
+.idea/
+build/
+*/build/
+local.properties
+*.iml
+
+# APK / output build
+*.apk
+*.aab
+
+# Keystore / file rahasia
+*.jks
+*.keystore
+keystore.properties
+
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
